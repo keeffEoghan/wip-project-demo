@@ -1,0 +1,9 @@
+export const dataPath = './src/assets/holds/paths.json';
+export const svgPath = './src/assets/holds/svg/';
+export const sdfPath = './src/assets/holds/sdf/';
+export const size = [3e3, 3e3];
+export const scale = 0.8;
+export const radius = 1;
+export const cutoff = 0.1;
+export const channel = 0;
+export const Type = Uint8ClampedArray;
